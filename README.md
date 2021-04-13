@@ -45,11 +45,21 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Website Link
 
-Check out the deployed app at 
+Check out the deployed app at https://ancient-depths-90424.herokuapp.com
 
 ## Screenshot
 
-![screenshot]()
+* Search for books on the main page  
+
+![screenshot](https://github.com/kara-krzystan/book-search-engine/blob/main/client/public/screenshot_1.png)  
+
+* Create an account to save books  
+
+![screenshot](https://github.com/kara-krzystan/book-search-engine/blob/main/client/public/screenshot_2.png)  
+
+* View all saved books while logged in  
+
+![screenshot](https://github.com/kara-krzystan/book-search-engine/blob/main/client/public/screenshot_3.png)  
 
 ## Contact
 [Kara Krzystan on GitHub](http://github.com/kara-krzystan)
