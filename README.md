@@ -44,7 +44,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Website Link
 
-Check out the deployed app at https://ancient-depths-90424.herokuapp.com
+Check out the deployed here: https://ancient-depths-90424.herokuapp.com
 
 ## Screenshot
 
